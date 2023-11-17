@@ -1,5 +1,10 @@
 # Teamvoy
-There are three predefined users in the DB with roles MANAGER and CLIENT.
+### Від себе, для зручності ще додав Spring Security.
+### Авторизація відбувається через JWT Token
+
+Всі данні записуються у тестову БД H2.
+
+У БД є три попередньо визначені користувачі з ролями MANAGER та CLIENT.
 
 | Login         | Password | Role  |
 |---------------|:--------:|:-----:|
